@@ -3,3 +3,7 @@ google-generativeai
 python-dotenv
 PyPDF2
 pytest
+pdf2image
+pytesseract
+Pillow
+reportlab
